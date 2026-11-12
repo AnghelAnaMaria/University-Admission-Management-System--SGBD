@@ -6,11 +6,7 @@ The system covers the entire admission workflow, from candidate registration and
 
 Its main goal is to provide a centralized and structured solution for managing candidates, academic programs, admission applications, examination results, and the academic staff involved in the evaluation process.
 
-## Project Diagrams
-
-![ERD Diagram](images/ERD.png)
-
-![Conceptual Diagram](images/conceptual_diagram.png)
+![Conceptual Diagram](images/CD.png)
 
 ## Scope and Functional Requirements
 
